@@ -7,4 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/soumyaranjanabc/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0242-valid-anagram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
