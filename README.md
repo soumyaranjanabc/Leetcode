@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/soumyaranjanabc/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/soumyaranjanabc/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/soumyaranjanabc/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0242-valid-anagram/) | Easy |
