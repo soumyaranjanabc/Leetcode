@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/soumyaranjanabc/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/soumyaranjanabc/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/soumyaranjanabc/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [2396-strictly-palindromic-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/soumyaranjanabc/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0390-elimination-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0390-elimination-game/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/soumyaranjanabc/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
