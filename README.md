@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/soumyaranjanabc/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/soumyaranjanabc/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0402-remove-k-digits](https://github.com/soumyaranjanabc/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/soumyaranjanabc/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/soumyaranjanabc/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/soumyaranjanabc/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0402-remove-k-digits](https://github.com/soumyaranjanabc/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/soumyaranjanabc/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/soumyaranjanabc/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0402-remove-k-digits](https://github.com/soumyaranjanabc/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Math
@@ -112,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/soumyaranjanabc/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
