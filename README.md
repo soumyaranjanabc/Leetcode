@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/soumyaranjanabc/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0994-rotting-oranges](https://github.com/soumyaranjanabc/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/soumyaranjanabc/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/soumyaranjanabc/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/soumyaranjanabc/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumyaranjanabc/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/soumyaranjanabc/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/soumyaranjanabc/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/soumyaranjanabc/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/soumyaranjanabc/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
