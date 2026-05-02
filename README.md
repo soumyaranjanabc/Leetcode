@@ -103,12 +103,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/soumyaranjanabc/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumyaranjanabc/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumyaranjanabc/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0547-number-of-provinces](https://github.com/soumyaranjanabc/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/soumyaranjanabc/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/soumyaranjanabc/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soumyaranjanabc/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/soumyaranjanabc/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/soumyaranjanabc/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -149,4 +151,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/soumyaranjanabc/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/soumyaranjanabc/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/soumyaranjanabc/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
