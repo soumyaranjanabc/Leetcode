@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/soumyaranjanabc/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/soumyaranjanabc/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0198-house-robber](https://github.com/soumyaranjanabc/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0496-next-greater-element-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0733-flood-fill](https://github.com/soumyaranjanabc/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/soumyaranjanabc/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0198-house-robber](https://github.com/soumyaranjanabc/Leetcode/tree/main/0198-house-robber/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
