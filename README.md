@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/soumyaranjanabc/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0135-candy](https://github.com/soumyaranjanabc/Leetcode/tree/main/0135-candy/) | Hard |
 | [0198-house-robber](https://github.com/soumyaranjanabc/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0455-assign-cookies](https://github.com/soumyaranjanabc/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/soumyaranjanabc/Leetcode/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/soumyaranjanabc/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/soumyaranjanabc/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
