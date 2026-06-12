@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/soumyaranjanabc/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/soumyaranjanabc/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/soumyaranjanabc/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/soumyaranjanabc/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/soumyaranjanabc/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/soumyaranjanabc/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0216-combination-sum-iii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/soumyaranjanabc/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
