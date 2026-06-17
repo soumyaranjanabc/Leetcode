@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/soumyaranjanabc/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0066-plus-one](https://github.com/soumyaranjanabc/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/soumyaranjanabc/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0135-candy](https://github.com/soumyaranjanabc/Leetcode/tree/main/0135-candy/) | Hard |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/soumyaranjanabc/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/soumyaranjanabc/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0390-elimination-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0390-elimination-game/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
