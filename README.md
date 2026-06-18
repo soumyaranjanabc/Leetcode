@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumyaranjanabc/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/soumyaranjanabc/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0169-majority-element](https://github.com/soumyaranjanabc/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/soumyaranjanabc/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/soumyaranjanabc/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0169-majority-element](https://github.com/soumyaranjanabc/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/soumyaranjanabc/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/soumyaranjanabc/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/soumyaranjanabc/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0135-candy](https://github.com/soumyaranjanabc/Leetcode/tree/main/0135-candy/) | Hard |
+| [0169-majority-element](https://github.com/soumyaranjanabc/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/soumyaranjanabc/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/soumyaranjanabc/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -212,4 +215,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumyaranjanabc/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/soumyaranjanabc/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/soumyaranjanabc/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
