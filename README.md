@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/soumyaranjanabc/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/soumyaranjanabc/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0994-rotting-oranges](https://github.com/soumyaranjanabc/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/soumyaranjanabc/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/soumyaranjanabc/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/soumyaranjanabc/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/soumyaranjanabc/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/soumyaranjanabc/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/soumyaranjanabc/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumyaranjanabc/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/soumyaranjanabc/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/soumyaranjanabc/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/soumyaranjanabc/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
