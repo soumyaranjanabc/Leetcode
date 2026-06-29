@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/soumyaranjanabc/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/soumyaranjanabc/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/soumyaranjanabc/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0390-elimination-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0390-elimination-game/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -235,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/soumyaranjanabc/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 <!---LeetCode Topics End-->
