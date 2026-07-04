@@ -247,4 +247,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/soumyaranjanabc/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/soumyaranjanabc/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
