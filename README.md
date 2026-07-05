@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/soumyaranjanabc/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/soumyaranjanabc/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/soumyaranjanabc/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0390-elimination-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0390-elimination-game/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/soumyaranjanabc/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/soumyaranjanabc/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/soumyaranjanabc/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/soumyaranjanabc/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -251,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/soumyaranjanabc/Leetcode/tree/main/0197-rising-temperature/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/soumyaranjanabc/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
