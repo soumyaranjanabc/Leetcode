@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/soumyaranjanabc/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/soumyaranjanabc/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0118-pascals-triangle](https://github.com/soumyaranjanabc/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0135-candy](https://github.com/soumyaranjanabc/Leetcode/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/soumyaranjanabc/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/soumyaranjanabc/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/soumyaranjanabc/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/soumyaranjanabc/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/soumyaranjanabc/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/soumyaranjanabc/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
