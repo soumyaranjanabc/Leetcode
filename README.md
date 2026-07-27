@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/soumyaranjanabc/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/soumyaranjanabc/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/soumyaranjanabc/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumyaranjanabc/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/soumyaranjanabc/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/soumyaranjanabc/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0994-rotting-oranges](https://github.com/soumyaranjanabc/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/soumyaranjanabc/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumyaranjanabc/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/soumyaranjanabc/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -267,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/soumyaranjanabc/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumyaranjanabc/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
