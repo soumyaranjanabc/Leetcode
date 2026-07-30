@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/soumyaranjanabc/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/soumyaranjanabc/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0390-elimination-game/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/soumyaranjanabc/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/soumyaranjanabc/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
