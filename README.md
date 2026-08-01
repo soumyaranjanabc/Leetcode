@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/soumyaranjanabc/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/soumyaranjanabc/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0390-elimination-game](https://github.com/soumyaranjanabc/Leetcode/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0394-decode-string/) | Medium |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/soumyaranjanabc/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
