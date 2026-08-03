@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/soumyaranjanabc/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0328-odd-even-linked-list](https://github.com/soumyaranjanabc/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/soumyaranjanabc/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
