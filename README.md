@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/soumyaranjanabc/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/soumyaranjanabc/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1108-defanging-an-ip-address](https://github.com/soumyaranjanabc/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
