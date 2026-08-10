@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/soumyaranjanabc/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/soumyaranjanabc/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaranjanabc/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/soumyaranjanabc/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumyaranjanabc/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/soumyaranjanabc/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/soumyaranjanabc/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
