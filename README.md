@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumyaranjanabc/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/soumyaranjanabc/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/soumyaranjanabc/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0013-roman-to-integer](https://github.com/soumyaranjanabc/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/soumyaranjanabc/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/soumyaranjanabc/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/soumyaranjanabc/Leetcode/tree/main/0079-word-search/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/soumyaranjanabc/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumyaranjanabc/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/soumyaranjanabc/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/soumyaranjanabc/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/soumyaranjanabc/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/soumyaranjanabc/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/soumyaranjanabc/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/soumyaranjanabc/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/soumyaranjanabc/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/soumyaranjanabc/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/soumyaranjanabc/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
